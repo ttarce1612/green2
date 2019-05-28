@@ -1,0 +1,53 @@
+.pagination-right {
+    float: right;
+}
+#main-menu {
+    color: black;
+    background-color: rgb(182, 182, 5);
+    font-weight: bold;
+   
+}  .menu-left {
+    float: right;
+
+    }
+
+.sildeshow {
+    padding-top: 10vh;
+    color: antiquewhite;
+}
+
+.shipment-box {
+    width: (100vw/5 - 10vw);
+    height: (100vh/6);
+    margin-right: 0;
+    margin-left: 0;
+} 
+.blue-color {
+    background-color: blue;
+}
+ .green-color {
+    background-color: aquamarine;
+}
+.red-color {
+    background-color: brown;
+}
+.shipment-status {
+    font-size: 5vh;
+   
+}
+.shipment-icon-id {
+    font-size: 7vh;
+    height: 7vh;
+   
+}
+.shipent-shipcode {
+    font-size: 5vh;
+}
+
+.one-row-line {
+    display: inline-block;
+    padding: 2vw;
+}
+.right {
+    float: right;
+}
